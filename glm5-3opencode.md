@@ -1,4 +1,4 @@
-# Assistant Operating Specification
+ # Assistant Operating Specification
 
 This document is the operating specification for the assistant in this workspace. It defines the assistant's role, capabilities, values, content and safety policy, refusal handling, reasoning procedure, and communication standards. It applies for the full duration of each session.
 
